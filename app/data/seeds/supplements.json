@@ -1,0 +1,12 @@
+[
+  {"name_ko": "철분", "name_en": "Iron", "category": "mineral", "aliases": ["페로", "황산철", "철분제"]},
+  {"name_ko": "칼슘", "name_en": "Calcium", "category": "mineral", "aliases": ["탄산칼슘", "구연산칼슘"]},
+  {"name_ko": "마그네슘", "name_en": "Magnesium", "category": "mineral", "aliases": ["산화마그네슘"]},
+  {"name_ko": "비타민 K", "name_en": "Vitamin K", "category": "vitamin", "aliases": ["비타민K", "vitamin k", "K비타민"]},
+  {"name_ko": "오메가-3", "name_en": "Omega-3", "category": "fatty_acid", "aliases": ["피쉬오일", "fish oil", "EPA", "DHA"]},
+  {"name_ko": "아연", "name_en": "Zinc", "category": "mineral", "aliases": ["산화아연"]},
+  {"name_ko": "비타민 C", "name_en": "Vitamin C", "category": "vitamin", "aliases": ["아스코르브산", "ascorbic acid"]},
+  {"name_ko": "비타민 D", "name_en": "Vitamin D", "category": "vitamin", "aliases": ["콜레칼시페롤", "vitamin d3"]},
+  {"name_ko": "엽산", "name_en": "Folic Acid", "category": "vitamin", "aliases": ["폴산", "folate", "비타민B9"]},
+  {"name_ko": "인삼/홍삼", "name_en": "Ginseng", "category": "herbal", "aliases": ["홍삼", "인삼추출물", "ginseng"]}
+]

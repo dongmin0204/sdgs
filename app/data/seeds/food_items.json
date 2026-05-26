@@ -1,0 +1,9 @@
+[
+  {"food_name": "자몽", "food_group": "grapefruit", "aliases": ["자몽주스", "grapefruit", "pomelo"]},
+  {"food_name": "우유", "food_group": "dairy", "aliases": ["유제품", "dairy", "milk", "치즈", "요거트"]},
+  {"food_name": "커피", "food_group": "caffeine", "aliases": ["카페인", "coffee", "녹차", "홍차", "에너지드링크"]},
+  {"food_name": "알코올", "food_group": "alcohol", "aliases": ["술", "맥주", "소주", "와인", "alcohol"]},
+  {"food_name": "고지방 음식", "food_group": "high_fat", "aliases": ["기름진 음식", "튀김", "고지방식"]},
+  {"food_name": "비타민K 함유 채소", "food_group": "vitamin_k", "aliases": ["시금치", "브로콜리", "케일", "상추"]},
+  {"food_name": "감초", "food_group": "licorice", "aliases": ["licorice", "감초차"]}
+]
